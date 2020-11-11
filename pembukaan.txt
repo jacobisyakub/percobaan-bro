@@ -1,0 +1,6 @@
+jadi dalam path ini saya akan:
+-belajar jadi FE
+-bljr HTML
+-CSS
+-boostrap
+-php
