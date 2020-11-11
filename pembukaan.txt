@@ -4,3 +4,4 @@ jadi dalam path ini saya akan:
 -CSS
 -boostrap
 -php
+-bljr javascript n react native
