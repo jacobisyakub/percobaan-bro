@@ -1,4 +1,12 @@
 yg dipelajari bln 02 adalah:
-- CSS deeper
+- CSS
+  making layout with:
+  float
+  positioning
+  display
+  box model
+  css grid
+  flex box
+
 -bljr php
 -desain ui 
