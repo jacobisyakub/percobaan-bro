@@ -7,6 +7,7 @@ yg dipelajari bln 02 adalah:
   box model
   css grid
   flex box
-
+-javascript
 -bljr php
+*laravel
 -desain ui 
