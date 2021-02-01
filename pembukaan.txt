@@ -5,3 +5,4 @@ jadi dalam path ini saya akan:
 -boostrap
 -php
 -bljr javascript n react
+- baru belajar layouting web pakai css
