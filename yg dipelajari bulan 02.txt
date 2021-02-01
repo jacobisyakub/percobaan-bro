@@ -8,6 +8,10 @@ yg dipelajari bln 02 adalah:
   css grid
   flex box
 -javascript
+*ES6
+*DOM
 -bljr php
 *laravel
--desain ui 
+*CI
+-desain ui
+*figma
